@@ -1,4 +1,5 @@
 import Banner from "../Banner/Banner";
+import Choice from "../Choice/Choice";
 import Header from "../Header/Header";
 
 
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             <Header></Header>
             <Banner></Banner>
+            <Choice></Choice>
         </div>
     );
 };
