@@ -42,7 +42,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="w-[157px] h-[44px] border text-center py-2">Contact us</a>
+                <a className="hidden sm:inline-block w-[157px] h-[44px] border text-center py-2">Contact us</a>
             </div>
         </div>
     );
