@@ -11,7 +11,7 @@ const Service = () => {
     return (
         <div className="bg-base-200">
             <div className="lg:flex justify-center gap-10 py-14 px-4">
-                <img src={group28} alt="" className='w-[73px] h-[73px]' />
+                <img src={group28} alt="" className='w-[65px] lg:w-[73px] h-[73px]' />
                 <h2 className="lg:text-4xl text-3xl font-semibold lg:text-center">The Service We Provide<br /> For You</h2>
             </div>
             <img src={Add} alt="" className='lg:ml-[900px] ml-[300px] -mt-[100px]' />

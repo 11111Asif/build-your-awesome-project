@@ -24,18 +24,18 @@ const Banner = () => {
                     <button className="bg-[#5454D4] w-[204px] h-[58px]">Our Services</button>
                 </div>
             </div>
-            <div className=' absolute lg:-mt-56 lg:ml-48'>
-                    <img className='w-[95px] h-[28px]' src={vector15} alt="" />
+            <div className=' absolute -mt-[660px] -ml-[260px] lg:-mt-56 lg:ml-48'>
+                    <img className='w-[61px] h-[18px] lg:w-[95px] lg:h-[28px]' src={vector15} alt="" />
                     
                 </div>
-                <div className='absolute lg:ml-[950px] lg:-mt-[270px]'>
-                    <img className=' w-[51px] h-[60px]' src={group29} alt="" />
+                <div className='absolute ml-[300px] -mt-[730px] lg:ml-[950px] lg:-mt-[270px]'>
+                    <img className=' w-[35px] h-[42px] lg:w-[51px] lg:h-[60px]' src={group29} alt="" />
                 </div>
-                <div className='absolute lg:-mb-[350px] ml-[150px]'>
-                    <img className='w-[73px] h-[73px]' src={group28} alt="" />
+                <div className='absolute -ml-[300px] mb-[100px] lg:-mb-[350px] lg:ml-[150px]'>
+                    <img className='w-[65px] lg:w-[73px] h-[73px]' src={group28} alt="" />
                 </div>
-                <div className='absolute lg:ml-[950px] lg:-mb-[300px]'>
-                    <img className='w-[50px] h-[50px]' src={Add} alt="" />
+                <div className='absolute ml-[300px] mb-[160px] lg:ml-[950px] lg:-mb-[300px]'>
+                    <img className='lg:w-[50px] lg:h-[50px] w-[39px] h-[39px]' src={Add} alt="" />
                 </div>
         </div>
     );
