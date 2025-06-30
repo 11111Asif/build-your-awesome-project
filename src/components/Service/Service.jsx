@@ -95,6 +95,7 @@ const Service = () => {
                     </div>
                 </div>
             </div>
+            <img src={Add} alt="" className='px-10' />
         </div>
     );
 };
