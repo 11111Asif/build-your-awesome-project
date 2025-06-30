@@ -12,7 +12,7 @@ const Portfolio = () => {
             <div>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
                     <img src={group8} alt="" className='' />
-                     <img src={group9} alt="" className='lg:mt-10' />
+                     <img src={group9} alt="" className='lg:mt-10 lg:block' />
                       <img src={group10} alt="" className='lg:mt-20' />
                 </div>
                 <div className='flex mt-3 gap-1 justify-center'>
